@@ -1,0 +1,73 @@
+//Useful Eclipse HotKey
+Ctrl+shift+K           find up one
+
+Ctrl+K                 find next one
+
+Ctrl+O                 show outline
+
+Ctrl+L                 to ... line
+
+Ctrl+M                 max or min view
+
+Ctrl+N                 create new file
+
+Ctrl+W/Ctrl+shift+F4   close all editor
+
+Ctrl+F6                editor select
+
+Ctrl+F7                view select
+
+Ctrl+Å™|Å´             scroll editor's scrollbar 
+
+Ctrl+shift+X           toUpper
+
+Ctrl+shift+Y           toLower
+
+Ctrl+shift+T           open type
+
+Ctrl+shift+R           open resource
+
+Ctrl+shift+Å™|Å´       to up|next member
+
+Ctrl+shift+U           list all find object
+
+Ctrl+shift+M           add import
+
+Ctrl+shift+O           organization import
+
+F4                     open type floor
+
+F3                     open define
+
+Alt+shift+L            get local var
+
+Alt+shift+M            get method
+
+Alt+shift+R            rename
+
+Alt+Å©|Å®              editWindow history back|forward
+
+/**Debug HotKey**/
+F7                     single step back
+
+F6                     single skip
+
+F5                     single jump in
+
+Ctrl+F5                single jump in select
+
+F11                    debug last start
+
+F8                     go on
+
+Shift+F5               use filter single step execture
+
+Ctrl+Shift+B           add or remove break point
+
+Ctrl+D                 show
+
+Ctrl+F11               execture last start
+
+Ctrl+R                 execture to line
+
+Ctrl+U                 execture
